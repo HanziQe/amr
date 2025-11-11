@@ -41,6 +41,7 @@ config.json
 
 # Sample outputs
 sample_email_*.html
+SUMMARY.txt
 
 # OS
 .DS_Store
