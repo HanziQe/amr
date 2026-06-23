@@ -1,0 +1,14 @@
+{
+  "smtp_server": "smtp.gmail.com",
+  "smtp_port": 587,
+  "sender_email": "your-email@example.com",
+  "sender_password": "your-password-here",
+  "use_tls": true,
+  "default_recipient": "admin@example.com",
+  "default_language": "cs",
+  "report_schedule": {
+    "enabled": false,
+    "frequency": "daily",
+    "time": "08:00"
+  }
+}
